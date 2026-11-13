@@ -1,0 +1,15 @@
+{
+  "ca_domain": "suburbia-ca.example",
+  "empty_caa": "allow",
+  "public_suffixes": [
+    "com",
+    "net",
+    "org",
+    "example"
+  ],
+  "max_cname": 3,
+  "allowed_challenge_types": [
+    "dns-01"
+  ],
+  "require_accounturi": false
+}

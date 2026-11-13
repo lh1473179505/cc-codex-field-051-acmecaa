@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "name": "_acme-challenge.alias.example.com.",
+      "type": "CNAME",
+      "ttl": 60,
+      "rdata": "ch.provider.net."
+    },
+    {
+      "name": "ch.provider.net.",
+      "type": "TXT",
+      "ttl": 60,
+      "rdata": "7HsTWZMZuNFNbGVgewDq5_OEnyOLUWIq5U8NTCdC7I0"
+    },
+    {
+      "name": "ch.provider.net.",
+      "type": "CAA",
+      "ttl": 60,
+      "rdata": "0 issue \";\""
+    },
+    {
+      "name": "alias.example.com.",
+      "type": "CAA",
+      "ttl": 60,
+      "rdata": "0 issue \"suburbia-ca.example; accounturi=https://acme.suburbia-ca.example/acme/acct/18817; validationmethods=dns-01\""
+    }
+  ]
+}

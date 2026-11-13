@@ -1,0 +1,24 @@
+{
+  "authorizations": [
+    {
+      "identifier": {
+        "type": "dns",
+        "value": "bare.example.com"
+      },
+      "wildcard": false,
+      "status": "pending",
+      "challenges": [
+        {
+          "type": "http-01",
+          "token": "ignore-me",
+          "status": "pending"
+        },
+        {
+          "type": "dns-01",
+          "token": "2n4Xq8kQ0eE7pL1sW9vB6cR3tY5uH8jK",
+          "status": "pending"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "name": "_acme-challenge.www.example.com.",
+      "type": "TXT",
+      "ttl": 60,
+      "rdata": "7HsTWZMZuNFNbGVgewDq5_OEnyOLUWIq5U8NTCdC7I0"
+    },
+    {
+      "name": "www.example.com.",
+      "type": "CAA",
+      "ttl": 60,
+      "rdata": "0 issue \";\""
+    }
+  ]
+}

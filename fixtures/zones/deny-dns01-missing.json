@@ -1,0 +1,10 @@
+{
+  "records": [
+    {
+      "name": "www.example.com.",
+      "type": "CAA",
+      "ttl": 60,
+      "rdata": "0 issue \"suburbia-ca.example; accounturi=https://acme.suburbia-ca.example/acme/acct/18817; validationmethods=dns-01\""
+    }
+  ]
+}

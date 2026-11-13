@@ -1,0 +1,9 @@
+{
+  "url": "https://acme.suburbia-ca.example/acme/acct/18817",
+  "jwk": {
+    "kty": "EC",
+    "crv": "P-256",
+    "x": "W9jVNmHBu_m4oi_Bj1VxeiNh0eeH3qwTC7tiHknWZ8s",
+    "y": "4Lu_JoC9jUOIX_Aqa_yBiXtBUlK4DT-6wkFJ___N-7U"
+  }
+}
